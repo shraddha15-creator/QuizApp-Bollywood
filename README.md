@@ -1,5 +1,5 @@
 # QuizApp-Bollywood Neog.camp Project 
-##CLI QUIZ APP on Bollywood
+## CLI QUIZ APP on Bollywood
 
 ##Rules
 1. Enter Your Name
